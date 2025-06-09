@@ -1,5 +1,18 @@
 # 💫 About Me:
-🎓 I’m a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.<br><br>💡 I have a solid foundation in software development principles and object-oriented programming.<br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:<br>                 📊 Data analysis & model building<br>                 📈 ML algorithms & real-world applications<br><br>🛠️ Currently working on:<br>                🌍 Web applications<br>                🤖 ML-based tools<br>                🎓 Academic software systems<br><br>🚀 I’m always open to new challenges and collaborative opportunities.<br><br>📚 I love to learn continuously and expand my tech stack.<br><br>🌱 Right now, I’m exploring:<br>               ⚙️ ML frameworks: scikit-learn, TensorFlow<br>               🌐 Full-stack development
+🎓 I’m a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
+<br><br>💡 I have a solid foundation in software development principles and object-oriented programming.
+<br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;📊 Data analysis & model building
+<br>&nbsp;&nbsp;&nbsp;&nbsp;📈 ML algorithms & real-world applications
+<br><br>🛠️ Currently working on:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🌍 Web applications
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🤖 ML-based tools
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Academic software systems
+<br><br>🚀 I’m always open to new challenges and collaborative opportunities.
+<br><br>📚 I love to learn continuously and expand my tech stack.
+<br><br>🌱 Right now, I’m exploring:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ML frameworks: scikit-learn, TensorFlow
+<br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 Full-stack development
 
 
 ## 🌐 Socials:
@@ -15,13 +28,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokula-nandhan-2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gokula-nandhan-2&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<!-- top contributed repo is not showing -->
 ---
 [![](https://visitcount.itsvg.in/api?id=gokula-nandhan-2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+

@@ -1,4 +1,5 @@
-![Alt text](images\Github_Readme.png)
+![Alt text](Github_Readme.png)
+
 🎓 I’m a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
 <br><br>💡 I have a solid foundation in software development principles and object-oriented programming.
 <br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:

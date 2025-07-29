@@ -1,4 +1,4 @@
-![](gokula-nandhan-2\images\Github_Readme.png)
+![](images/github-readme.png)
 
 🎓 I’m a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
 <br><br>💡 I have a solid foundation in software development principles and object-oriented programming.

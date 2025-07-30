@@ -1,18 +1,18 @@
 ![](images/github-readme.png)
 
-### 🎓 I'm a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
-### 💡 I have a solid foundation in software development principles and object-oriented programming.
-### 🤖 I'm passionate about Machine Learning, with a growing interest in:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;📊 Data analysis & model building
+#### 🎓 I'm a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
+#### 💡 I have a solid foundation in software development principles and object-oriented programming.
+#### 🤖 I'm passionate about Machine Learning, with a growing interest in:
+&nbsp;&nbsp;&nbsp;&nbsp;📊 Data analysis & model building
 <br>&nbsp;&nbsp;&nbsp;&nbsp;📈 ML algorithms & real-world applications
-### <br><br>🛠️ Currently working on:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;🌍 Web applications
+#### 🛠️ Currently working on:
+&nbsp;&nbsp;&nbsp;&nbsp;🌍 Web applications
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🤖 ML-based tools
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Academic software systems
-### <br><br>🚀 I'm always open to new challenges and collaborative opportunities.
-### <br><br>📚 I love to learn continuously and expand my tech stack.
-### <br><br>🌱 Right now, I'm exploring:
-<br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ML frameworks: scikit-learn, TensorFlow
+#### 🚀 I'm always open to new challenges and collaborative opportunities.
+#### 📚 I love to learn continuously and expand my tech stack.
+#### 🌱 Right now, I'm exploring:
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ML frameworks: scikit-learn, TensorFlow
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 Full-stack development
 
 ## 🌐 Socials:

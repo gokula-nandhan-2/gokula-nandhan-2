@@ -1,24 +1,19 @@
 ![](images/github-readme.png)
 
-<div style="font-family: 'Segoe UI', Arial, sans-serif;">
-
-🎓 I'm a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
-<br><br>💡 I have a solid foundation in software development principles and object-oriented programming.
-<br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:
+## 🎓 I'm a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
+## <br><br>💡 I have a solid foundation in software development principles and object-oriented programming.
+## <br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;📊 Data analysis & model building
 <br>&nbsp;&nbsp;&nbsp;&nbsp;📈 ML algorithms & real-world applications
-<br><br>🛠️ Currently working on:
+## <br><br>🛠️ Currently working on:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🌍 Web applications
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🤖 ML-based tools
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Academic software systems
-<br><br>🚀 I'm always open to new challenges and collaborative opportunities.
-<br><br>📚 I love to learn continuously and expand my tech stack.
-<br><br>🌱 Right now, I'm exploring:
+## <br><br>🚀 I'm always open to new challenges and collaborative opportunities.
+## <br><br>📚 I love to learn continuously and expand my tech stack.
+## <br><br>🌱 Right now, I'm exploring:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ML frameworks: scikit-learn, TensorFlow
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 Full-stack development
-
-</div>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/14ErutvDBCT/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gokul._ll?igsh=ZWhhamp2b3B2dDA4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gokula-nandhan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@commong846) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_SEgokul?t=wMrtn2xacM6uQrlRRZH-tA&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokula.nandhan02@gmail.com) 

@@ -1,6 +1,8 @@
 ![](images/github-readme.png)
 
-🎓 I’m a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
+<div style="font-family: 'Segoe UI', Arial, sans-serif;">
+
+🎓 I'm a Second-year Software Engineering student at the Informatics Institute of Technology (IIT), affiliated with the University of Westminster, UK.
 <br><br>💡 I have a solid foundation in software development principles and object-oriented programming.
 <br><br>🤖 I'm passionate about Machine Learning, with a growing interest in:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;📊 Data analysis & model building
@@ -9,11 +11,13 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🌍 Web applications
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🤖 ML-based tools
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🎓 Academic software systems
-<br><br>🚀 I’m always open to new challenges and collaborative opportunities.
+<br><br>🚀 I'm always open to new challenges and collaborative opportunities.
 <br><br>📚 I love to learn continuously and expand my tech stack.
-<br><br>🌱 Right now, I’m exploring:
+<br><br>🌱 Right now, I'm exploring:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;⚙️ ML frameworks: scikit-learn, TensorFlow
 <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 Full-stack development
+
+</div>
 
 
 ## 🌐 Socials:
